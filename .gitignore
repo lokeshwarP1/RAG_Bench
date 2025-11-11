@@ -1,0 +1,16 @@
+# Ignore Python and environment files
+__pycache__/
+env/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+
+# Ignore temporary or run files
+runs/
+*.log
+*.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
